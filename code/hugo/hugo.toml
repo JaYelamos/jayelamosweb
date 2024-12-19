@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'es'
+title = 'JAYelamos'
+theme = 'friend-ng'
+sectionPagesMenu = 'main'
