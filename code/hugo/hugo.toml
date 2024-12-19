@@ -1,5 +1,22 @@
 baseURL = 'https://main.d20wgftgh6xudj.amplifyapp.com/'
 languageCode = 'es'
-title = 'JAYelamos'
+title = 'jaYelamos'
 theme = 'friend-ng'
-sectionPagesMenu = 'main'
+enableSharingButtons = true
+
+[[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
+[[params.social]]
+  name = "twitter"
+  url = "https://x.com/s1nf1l"
+
+[[params.social]]
+  name = "mastodon"
+  url = "https://mastodon.social/@s1nf1l"
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/jose-antonio-y%C3%A9lamos-reyes-1106a7a7/"
