@@ -4,3 +4,7 @@ variable "tagName" {
     default = "Ubuntu2204"
     sensitive = true
 }
+
+variable accesstoken {
+    type = string
+}

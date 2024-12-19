@@ -1,11 +1,9 @@
-variable "tagName" {
-    description = "Value for Tag Name"
+variable "repositoryUrl" {
+    description = "Value for Repository URL configuration on Amplify"
     type = string
-    default = "Ubuntu2204"
+    default = "https://github.com/JaYelamos/jayelamosweb"
 }
 
-variable "ec2instanceName" {
-    description = "Value for EC2 Instance object"
+variable "accesstoken" {
     type = string
-    default = "ec2"
 }
