@@ -53,9 +53,10 @@ resource "aws_amplify_app" "amplifyapp" {
             - git config --add core.quotepath false
         build:
           commands:
+            - cd code/hugo/
             - hugo --gc --minify
       artifacts:
-        baseDirectory: public
+        baseDirectory: code/hugo/public
         files:
           - '**/*'
       cache:
@@ -69,9 +70,5 @@ resource "aws_amplify_app" "amplifyapp" {
     source = "/<*>"
     status = "404"
     target = "/index.html"
-  }
-
-  environment_variables = {
-    
   }
 }
