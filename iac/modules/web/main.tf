@@ -72,3 +72,11 @@ resource "aws_amplify_app" "amplifyapp" {
     target = "/index.html"
   }
 }
+
+resource "aws_amplify_branch" "main" {
+  app_id      = aws_amplify_app.amplifyapp.id
+  branch_name = "main"
+
+  framework = "React"
+  stage     = "PRODUCTION"
+}
