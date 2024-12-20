@@ -80,3 +80,21 @@ resource "aws_amplify_branch" "main" {
   framework = "React"
   stage     = "PRODUCTION"
 }
+
+resource "aws_amplify_domain_association" "customDomain" {
+  app_id      = aws_amplify_app.amplifyapp.id
+  domain_name = "jayelamos.com"
+  wait_for_verification = false
+
+  # https://jayelamos.com
+  sub_domain {
+    branch_name = aws_amplify_branch.main.branch_name
+    prefix      = ""
+  }
+
+  # https://www.jayelamos.com
+  sub_domain {
+    branch_name = aws_amplify_branch.main.branch_name
+    prefix      = "www"
+  }
+}

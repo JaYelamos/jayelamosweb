@@ -1,4 +1,4 @@
-baseURL = 'https://main.d20wgftgh6xudj.amplifyapp.com/'
+baseURL = 'https://jayelamos.com/'
 languageCode = 'es'
 title = 'jaYelamos'
 theme = 'friend-ng'
@@ -20,3 +20,7 @@ enableSharingButtons = true
 [[params.social]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/jose-antonio-y%C3%A9lamos-reyes-1106a7a7/"
+
+  [[params.social]]
+  name = "email"
+  url = "mailto:jayelamos@protonmail.com"
