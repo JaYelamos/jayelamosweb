@@ -97,4 +97,8 @@ resource "aws_amplify_domain_association" "customDomain" {
     branch_name = aws_amplify_branch.main.branch_name
     prefix      = "www"
   }
+
+  certificate_settings {
+    type = "AMPLIFY_MANAGED"
+  }
 }
