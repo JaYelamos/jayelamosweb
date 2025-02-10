@@ -21,10 +21,11 @@ Frente a la desregulación absoluta para la 'tecnocasta', impulsemos una digital
 Un observatorio público, que obviamente lo pagaremos todos los españoles para hacer… ¿exactamente qué? Veamos los puntos que dice aquí el presidente:
 
 ## Desregulación y tecnocasta
-básicamente tecnocasta el la nueva forma de llamar a lo que llamaron Tecnofeudalismo, pero de una forma diferente. En este blog ya indiqué que me parecía este término carente de sentido.
+Básicamente tecnocasta el la nueva forma de llamar a lo que llamaron Tecnofeudalismo, pero de una forma diferente. En este blog ya indiqué que me parecía este término carente de sentido.
 
 La desregulación, imagino que irá caminado a que hay gente que quiere que Internet sea el salvaje oeste, que no haya leyes para proteger a los ciudadanos. 
-Pueden existir leyes para proteger estos derechos sin eliminar estos.
+Pueden existir leyes para proteger estos derechos sin eliminarlos a la vez.
+
 Los ciberderechos, según Wikipedia, serían los siguientes
 
 - Derecho a la libre expresión
@@ -59,11 +60,13 @@ https://confilegal.com/20200611-proteccion-de-datos-multa-a-twitter-con-30-000-e
 
 https://www.xataka.com/legislacion-y-derechos/meta-recibe-mayor-multa-historia-union-europea-proteccion-datos-1-200-millones-euros
 
-## Cae en una contradicción
-Acabar con el anonimato e impunidad y proteger los Derecho Digitales.
+## Caer en una contradicción
+Acabar con el anonimato e impunidad y proteger los Derecho Digitales es un oxímoron.
 Los derechos digitales abogan por la libre expresión, libre acceso a Internet y privacidad en línea.
 
 Quieren acabar con el anonimato para poder avasallar desde los organismos a gente anónima, fuera de la política, porque no piensan como ellos o piensan diferente, o simplemente los critican.
+En favor de la verdad, es que normalmente el usuario normal de Internet es anónimo a grandes rasgos, a no ser que cometa un delito. Incluso teniendo las mayores herramientas para ocultar su rastro, se puede seguir este de distintas formas.
+Por lo que el anonimato al 100% no está asegurado (ni tampoco la seguridad al 100%), pero sí que está el anonimato ante otros usuarios (no hablamos de ciberdelincuentes o gente con ganas de hacer el mal).
 
 Dicen querer acabar con la impunidad, pero hay mecanismos para, en el caso por ejemplo de amenazas de muerte, poder denunciar estos hechos ante las Fuerzas de Seguridad del Estado y estos puedan llevar acabo una investigación pidiendo datos a los proveedores de Internet para localizar a esta persona que ha cometido un delito.
 
