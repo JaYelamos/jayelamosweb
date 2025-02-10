@@ -3,13 +3,12 @@ title = 'Obervatorio de Derechos Digitales'
 date = 2025-02-10T11:33:31+01:00
 +++
 
-# Observatorio de Derechos Digitales
-
 El Gobierno de España plantea crear un observatorio de derechos Digitales, como anunció el presidente hace unos días.
 
 https://x.com/sanchezcastejon/status/1887099300691292502
 
 El presidente del Gobierno acompañó el vídeo con el siguiente texto:
+
 ´´´
 España promueve una regulación que proteja a la ciudadanía y sus derechos digitales.
 
